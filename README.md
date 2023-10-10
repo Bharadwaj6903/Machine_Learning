@@ -1,2 +1,2 @@
 # Machine_Learning
-# this is a basic flas app
+# this is a basic flask  app
